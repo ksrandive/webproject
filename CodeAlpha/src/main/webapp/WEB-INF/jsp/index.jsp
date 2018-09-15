@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Start page
+Start page of code alpha
 </body>
 </html>
