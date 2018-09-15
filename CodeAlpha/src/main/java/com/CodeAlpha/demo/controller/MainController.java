@@ -10,4 +10,9 @@ public class MainController {
 	public String loadPage() {
 		return "index";
 	}
+	
+	@RequestMapping(value= "/userlogin")
+	public String loginPage() {
+		return "user_login";
+	}
 }

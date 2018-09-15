@@ -8,5 +8,7 @@
 </head>
 <body>
 Start page of code alpha
+
+<a href= "/userlogin">Login Page</a>
 </body>
 </html>
