@@ -15,4 +15,11 @@ public class MainController {
 	public String loginPage() {
 		return "user_login";
 	}
+	
+	@RequestMapping(value= "/userresgration")
+	public String registrationPage() {
+		return "user_registration";
+	}
+	
+	
 }
